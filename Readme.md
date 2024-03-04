@@ -1,7 +1,6 @@
-## Salut, amis aventuriers du code ! 🚀 Avez-vous déjà eu envie d'améliorer vos compétences en JavaScript tout en vous amusant ? Eh bien, tenez vos claviers car j'ai quelque chose d'excitant à partager avec vous !
+## Salut, amis  ! 🚀 
 
-## Le défi dévoilé !
-J'ai décidé de me lancer dans un défi de codage JavaScript fou de 10 jours, et croyez-moi, ça va être légendaire ! De la création de compteurs de caractères et de mots géniaux à la création de votre propre portfolio numérique
+
 
 ### Jour 1 : Compteur de caractères et de mots
 J'ai lancé mon parcours JavaScript en me plongeant dans le projet de compteur de caractères et de mots. Créer une application Web qui comptait avec précision les caractères et les mots était une introduction parfaite au codage JavaScript. Cela a préparé le terrain pour les défis à venir.
