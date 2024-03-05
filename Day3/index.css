@@ -1,0 +1,39 @@
+.endTask {
+    text-decoration: line-through;
+   
+}
+
+/* Style pour l'élément input */
+#todo {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 200px;
+}
+
+/* Style pour le bouton */
+#AddBtn {
+    padding: 5px 10px;
+    background-color: #007bff; /* Bleu */
+    color: #fff; /* Texte blanc */
+    border: none;
+    cursor: pointer;
+}
+
+/* Style pour la liste de tâches */
+#Alltodo {
+    list-style-type: none; /* Supprime les puces de la liste */
+    padding: 0;
+}
+
+/* Style pour les éléments de la liste de tâches */
+#Alltodo li {
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: #f0f0f0; /* Couleur de fond gris clair */
+}
+
+/* Style pour les éléments de la liste de tâches complétées */
+#Alltodo li.completed {
+    text-decoration: line-through; /* Barré */
+    color: #888; /* Texte gris pour les tâches complétées */
+}
