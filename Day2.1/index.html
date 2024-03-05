@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn">Discuter</button>  
+    <button id="responseBtn">Repondre</button>  
+    <script>
+        // Création de l'objet SpeechSynthesisUtterance avec le texte à faire parler
+var message = new SpeechSynthesisUtterance('Bonjour, comment allez-vous ?');
+
+// Configuration des propriétés
+message.lang = 'fr-FR'; // Langue
+message.volume = 1;     // Volume (de 0 à 1)
+
+// Faire parler le navigateur
+window.speechSynthesis.speak(message);
+
+    </script> 
+</body>
+</html>
